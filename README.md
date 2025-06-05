@@ -14,16 +14,19 @@ Agendamento flexível (noite e fim de semana)
 Clínicas físicas modernas e acolhedoras
 Comunidades virtuais seguras
 Diário emocional digital
+
 🏢 Modelo de Negócio
 Público-alvo: Jovens (12–30 anos), pais e responsáveis
 Receita: Assinaturas mensais, pacotes avulsos e consultas presenciais
 Canais: App, site, redes sociais, parcerias com escolas e influencers
 Tecnologia: App móvel, videoconferência segura, sistema de agendamento e diário emocional
+
 ✨ Diferencial
 Modelo híbrido único voltado a jovens
 Abordagem digital-first
 Combina tecnologia e atendimento humano
 Preço acessível e planos flexíveis
+
 🚀 Próximos Passos
 Desenvolvimento do MVP
 Testes com usuários beta
